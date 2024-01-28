@@ -23,11 +23,11 @@ Ensure you have the web browser driver (like ChromeDriver) installed and correct
 ## Running the Tests
 Run the Cucumber tests using the following command:
 
-# To run all Cucumber features
+### To run all Cucumber features
 ```bash
 cucumber
 ```
-# To run a specific feature file
+### To run a specific feature file
 ```bash
 cucumber features/your_feature_file.feature
 ```
