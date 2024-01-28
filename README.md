@@ -33,11 +33,11 @@ cucumber features/your_feature_file.feature
 ```
 
 ## Test Organization
-features/ - Contains Cucumber feature files written in Gherkin syntax.
-features/step_definitions/ - Contains Ruby step definition files.
-features/support/ - Includes support files like env.rb.
+- features/ - Contains Cucumber feature files written in Gherkin syntax.
+- features/step_definitions/ - Contains Ruby step definition files.
+- features/support/ - Includes support files like env.rb.
 
 ## Writing Tests
-Write Cucumber feature files in features/ directory.
-Define step definitions in features/step_definitions/.
-Use Page Object Model by defining page objects in features/page_objects.
+- Write Cucumber feature files in features/ directory.
+- Define step definitions in features/step_definitions/.
+- Use Page Object Model by defining page objects in features/page_objects.
